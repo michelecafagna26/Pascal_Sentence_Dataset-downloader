@@ -20,8 +20,7 @@ pip install -r requirements.txt
 python download.py
 ```
 
-A json file named 'pascal_sentences.json' will be created.
-And the images in the 'images/' folder
+A json file named 'pascal_sentences.json' will be created and the images will be saved in 'images/'
 
 ## Data format
 
