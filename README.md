@@ -8,7 +8,7 @@ This script is inspired by https://github.com/rupy/PascalSentenceDataset.
 git clone https://github.com/michelecafagna26/Pascal_Sentence_Dataset-downloader.git
 ```
 
-## Install the requirements
+## Installaton
 
 ```
 pip install -r requirements.txt
